@@ -1,0 +1,2 @@
+class SameUser(Exception):
+    pass
